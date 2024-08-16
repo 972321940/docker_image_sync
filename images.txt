@@ -1,1 +1,1 @@
---platform=sickcodes/docker-osx:latest
+sickcodes/docker-osx:latest

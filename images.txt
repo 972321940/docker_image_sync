@@ -1,1 +1,1 @@
---platform=linux/amd64 nginx:1.27
+--platform=sickcodes/docker-osx:latest

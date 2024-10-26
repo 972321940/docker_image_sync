@@ -1,1 +1,2 @@
- chromadb/chroma:latest
+nastool/nas-tools:latest
+boredazfcuk/icloudpd
